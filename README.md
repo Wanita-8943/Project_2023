@@ -25,7 +25,7 @@
  - รอบที่ 4 ([]())
  
 # Train แบ่งตามเพศชายและเพศหญิง
- - รอบที่ 1 ([G1 Freez]([https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Male125_250.ipynb](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Gender_250.ipynb)))
+ - รอบที่ 1 ([G1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Gender_250.ipynb))
  - รอบที่ 2 ([G2 Freez]())  
  - รอบที่ 3 ([G3 Freez]())
  - รอบที่ 4 ([G4 Unfreez]())
