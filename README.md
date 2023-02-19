@@ -41,7 +41,7 @@
 # ----------------------------------------------------------------------
 # Regression
 # ----------------------------------------------------------------------
-# Gender Paramiter 
+# Gender Parameter 
  - learning_rate=1e-4
  - epoch 250
  - batch_size = 16
@@ -59,7 +59,7 @@
  - รอบที่ 4 ([]())
  
 ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
- - รอบที่ 1 ([65.89%]([https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_1e-4_16_0.2_Gender_250.ipynb)))
+ - รอบที่ 1 ([65.89%]([https://github.com/Wanita-8943/Project_2023/blob/main/1G_1e-4_16_0.2_Gender_250.ipynb](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_1e-4_16_0.2_Gender_250.ipynb))
  - รอบที่ 2 ([]())  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
