@@ -59,7 +59,7 @@
  - รอบที่ 4 ([]())
  
 ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
- - รอบที่ 1 ([65.89%]([https://github.com/Wanita-8943/Project_2023/blob/main/1G_1e-4_16_0.2_Gender_250.ipynb](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_1e-4_16_0.2_Gender_250.ipynb))
+ - รอบที่ 1 ([65.89%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_1e-4_16_0.2_Gender_250.ipynb))
  - รอบที่ 2 ([]())  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
