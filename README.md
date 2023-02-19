@@ -54,7 +54,7 @@
  - input_shape = (height, width, 3)
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([Re G1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/1G_1e-4_16_0.2_Gender_250.ipynb))
- - รอบที่ 2 ([]())  
+ - รอบที่ 2 ([Re G2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/2G_1e-4_16_0.2_Gender_250.ipynb))  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
  
