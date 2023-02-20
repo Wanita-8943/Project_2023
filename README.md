@@ -30,7 +30,7 @@
  - รอบที่ 1 ([G1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Gender_250.ipynb))
  - รอบที่ 2 ([G2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Gender_250.ipynb))  
  - รอบที่ 3 ([G3 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Gender_250.ipynb))
- - รอบที่ 4 ([]())
+ - รอบที่ 4 ([G3 Unfreez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Gender_250_Unfreez.ipynb))
  
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([69.95%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
@@ -76,7 +76,7 @@
  - dropout_rate = 0.2
  - input_shape = (height, width, 3)
 ## Train Female(แบ่งตามอายุของเพศหญิง)
- - รอบที่ 1 ([]())
+ - รอบที่ 1 ([Re_F1_Freez](https://github.com/Wanita-8943/Project_2023/blob/main/1F_2e-4_16_0.2_Female_500.ipynb))
  - รอบที่ 2 ([]())  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
@@ -100,7 +100,7 @@
  - input_shape = (height, width, 3)
 ## Train Male(แบ่งตามอายุของเพศชาย)
  - รอบที่ 1 ([Re_M1_Freez](https://github.com/Wanita-8943/Project_2023/blob/main/1_2e-4_16_0.2_Male18_500.ipynb))
- - รอบที่ 2 ([]())  
+ - รอบที่ 2 ([Re_M2_Freez](https://github.com/Wanita-8943/Project_2023/blob/main/2M_2e-4_16_0.2_Male_500.ipynb))  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
  
