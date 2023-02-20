@@ -30,13 +30,13 @@
  - รอบที่ 1 ([G1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Gender_250.ipynb))
  - รอบที่ 2 ([G2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Gender_250.ipynb))  
  - รอบที่ 3 ([G3 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Gender_250.ipynb))
- - รอบที่ 4 ([G3 Unfreez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Gender_250_Unfreez.ipynb))
+ - รอบที่ 4 ([G4 Unfreez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Gender_250_Unfreez.ipynb))
  
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([69.95%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  - รอบที่ 2 ([68.32%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
  - รอบที่ 3 ([68%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
- - รอบที่ 4 ([]())
+ - รอบที่ 4 ([69%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  
 # ------------------------------------------------
 # Regression
@@ -60,7 +60,7 @@
  
 ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([65.89%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_1e-4_16_0.2_Gender_250.ipynb))
- - รอบที่ 2 ([]())  
+ - รอบที่ 2 ([66.95%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_2G_1e-4_16_0.2_Gender_250.ipynb))  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
 
@@ -82,7 +82,7 @@
  - รอบที่ 4 ([]())
  
 ## Predict Female(แบ่งตามอายุของเพศหญิง)
- - รอบที่ 1 ([]())
+ - รอบที่ 1 ([12.63%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1F_2e_4_16_0_2_Female18_500.ipynb))
  - รอบที่ 2 ([]())  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
@@ -106,6 +106,6 @@
  
 ## Predict Male(แบ่งตามอายุของเพศชาย)
  - รอบที่ 1 ([12.84%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_1_2e-4_16_0.2_Male18_500.ipynb))
- - รอบที่ 2 ([]())  
+ - รอบที่ 2 ([10.44%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_2M_2e-4_16_0.2_Male18_500.ipynb))  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
