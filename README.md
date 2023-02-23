@@ -41,6 +41,28 @@
 # ------------------------------------------------
 # Regression
 # ------------------------------------------------
+# All Age Parameter 
+ - learning_rate=1e-4
+ - epoch 250
+ - batch_size = 16
+ - width = 150
+ - height = 150
+ - epochs = 250
+ - NUM_TRAIN = 2850
+ - NUM_TEST = 950
+ - dropout_rate = 0.2
+ - input_shape = (height, width, 3)
+## Train All(ทุกอายุและทุกเพศ)
+ - รอบที่ 1 ([Re All1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/All1_1e-4_16_0.2_All_250.ipynb))
+ - รอบที่ 2 ([]())  
+ - รอบที่ 3 ([]())
+ - รอบที่ 4 ([]())
+ 
+## Predict All(ทุกอายุและทุกเพศ)
+ - รอบที่ 1 ([]())
+ - รอบที่ 2 ([]())  
+ - รอบที่ 3 ([]())
+ - รอบที่ 4 ([]())
 # Gender Parameter 
  - learning_rate=1e-4
  - epoch 250
@@ -52,6 +74,7 @@
  - NUM_TEST = 950
  - dropout_rate = 0.2
  - input_shape = (height, width, 3)
+ 
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([Re G1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/1G_1e-4_16_0.2_Gender_250.ipynb))
  - รอบที่ 2 ([Re G2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/2G_1e-4_16_0.2_Gender_250.ipynb))  
