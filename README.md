@@ -54,7 +54,7 @@
  - input_shape = (height, width, 3)
 ## Train All(ทุกอายุและทุกเพศ)
  - รอบที่ 1 ([Re All1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/All1_1e-4_16_0.2_All_250.ipynb))
- - รอบที่ 2 ([]())  
+ - รอบที่ 2 ([Re All2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/All2_1e-4_16_0.2_All_250.ipynb))  
  - รอบที่ 3 ([]())
  - รอบที่ 4 ([]())
  
