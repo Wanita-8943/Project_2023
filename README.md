@@ -5,14 +5,14 @@
 ## Train Female(แบ่งตามอายุของเพศหญิง)
  - รอบที่ 1 ([F1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Female125_250.ipynb))
  - รอบที่ 2 ([F2 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Train_Female125_250.ipynb))  
- - รอบที่ 3 ([F3 Unreez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Train_Female125_250_New_Unfreez.ipynb))
- - รอบที่ 4 ([F4 Unreez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Train_Female125_250_New_Unfreez.ipynb))
+ - รอบที่ 3 ([F3 Unfreeze](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Train_Female125_250_New_Unfreez.ipynb))
+ - รอบที่ 4 ([F4 Unfreeze](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Train_Female125_250_New_Unfreez.ipynb))
  
 ## Predict Female(แบ่งตามอายุของเพศหญิง)
  - รอบที่ 1 ([17.47%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Female125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  - รอบที่ 2 ([18.11%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Female125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
- - รอบที่ 3 ([]())
- - รอบที่ 4 ([]())
+ - รอบที่ 3 ([18.74%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Female125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_New_Unfreeze.ipynb))
+ - รอบที่ 4 ([20.21%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Female125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_New_Unfreeze.ipynb))
    
  ## Train Male(แบ่งตามอายุของเพศชาย)
  - รอบที่ 1 ([M1 Freez](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Male125_250.ipynb))
@@ -25,7 +25,8 @@
  - รอบที่ 1 ([17.10%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Male125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  - รอบที่ 2 ([16.21%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Male125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
  - รอบที่ 3 ([17.89%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Male125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
- - รอบที่ 4 ([]())
+ - รอบที่ 4 ([16.42%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Male125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_Unfreeze.ipynb))
+ - รอบที่ 5 ([18.95%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%885_Male125_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_New_Unfreeze.ipynb))
  
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([G1 Freeze](https://github.com/Wanita-8943/Project_2023/blob/main/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Train_Gender_250.ipynb))
@@ -36,8 +37,8 @@
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([69.95%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%881_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  - รอบที่ 2 ([68.32%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%882_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
- - รอบที่ 3 ([]())
- - รอบที่ 4 ([]())
+ - รอบที่ 3 ([68.63%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%883_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_New_Unfreeze.ipynb))
+ - รอบที่ 4 ([83.79%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%884_Gender_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_New_Unfreeze.ipynb))
  
 # ------------------------------------------------
 # Regression
@@ -60,10 +61,11 @@
  - รอบที่ 4 ([Re All4 Unfreez](https://github.com/Wanita-8943/Project_2023/blob/main/All4_1e_4_16_0_2_All_250_New_Unfreez.ipynb))
  
 ## Predict All(ทุกอายุและทุกเพศ)
- - รอบที่ 1 ([]())
- - รอบที่ 2 ([]())  
- - รอบที่ 3 ([]())
- - รอบที่ 4 ([]())
+ - รอบที่ 1 ([5.26%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re1_1e-4_16_0.2_250.ipynb))
+ - รอบที่ 2 ([5.26%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re2_1e_4_16_0_2_250.ipynb))  
+ - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re3_1e-4_16_0.2_250.ipynb))
+ - รอบที่ 4 ([19.89%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re4_1e-4_16_0.2_250_Unfreeze.ipynb))
+
 # Gender Parameter 
  - learning_rate=1e-4
  - epoch 250
