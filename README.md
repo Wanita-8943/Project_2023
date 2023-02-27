@@ -66,7 +66,7 @@
  - รอบที่ 2 ([5.26%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re2_1e_4_16_0_2_250.ipynb))  
  - รอบที่ 3 ([5.26%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re3_1e-4_16_0.2_250.ipynb))
  - รอบที่ 4 ([19.89%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re4_1e-4_16_0.2_250_Unfreeze.ipynb))
- - รอบที่ 5 ([]())
+ - รอบที่ 5 ([23%](https://github.com/Wanita-8943/Project_2023/blob/main/Predict_All_Re5_1e-4_16_0.2_250_Unfreeze.ipynb))
 
 
 # Gender Parameter 
